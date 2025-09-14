@@ -1,0 +1,119 @@
+Asha M. Tarsadia Institute of Computer Science and Technology (AMTICS) - Chatbot Data Source
+1. About AMTICS
+The Asha M. Tarsadia Institute of Computer Science and Technology (AMTICS) is a constituent college of Uka Tarsadia University, located on the Maliba Campus in the South Gujarat region. Established in 2021, AMTICS is a hub for innovation and excellence in Computer Science and Engineering.
+Programs Offered:
+AMTICS offers seven undergraduate and one postgraduate program in emerging fields of technology, including:
+●	Artificial Intelligence & Machine Learning
+●	Cloud Computing
+●	Cyber Security
+●	Software Engineering
+●	Bioscience
+Mission & Approach:
+The institute's mission is to deliver skill-based, industry-oriented education. It focuses on bridging the gap between academia and industry with a curriculum aligned with real-world applications. The learning environment is fostered by experienced academicians, researchers, and industry professionals.
+2. Director's Message
+Dr. Vishvajit Bakrola, Director, AMTICS:
+"It is with great pride and enthusiasm that I welcome you to Asha M. Tarsadia Institute of Computer Science and Technology (AMTICS). Since our inception in 2021, AMTICS has been committed to nurturing a student-centered culture that emphasizes hands-on, industry-aligned learning. Our approach goes beyond conventional education—we empower students to actively engage with real-world challenges through cutting-edge programs... At AMTICS, innovation is at the core of everything we do. From early-stage DIY projects and hackathons to our dedicated Entrepreneurship Development and Start-up Club, we cultivate an environment where ideas transform into impactful solutions... Our holistic approach to education ensures that students not only gain theoretical knowledge but also develop practical skills through extensive lab work and industry internships... This continuous engagement with the industry has resulted in an impressive 89% placement record before graduation."
+3. Vision & Mission
+Vision:
+To become a cradle for innovation through nurturing excellence and imparting knowledge to handle and respond to societal challenges.
+Mission:
+1.	To become a centre of excellence in the field of Computer Science and Technology by fostering humanitarian values, critical thinking, and creativity.
+2.	Establish an innovation ecosystem through skill-based technical education.
+3.	Develop a socially responsible, highly skilled task force and future leaders to meet national challenges.
+4. Core Values
+●	Integrity
+●	Inclusivity
+●	Responsibility
+●	Empowerment
+●	Collaboration
+●	Excellence
+●	Sustainability
+5. Why Choose AMTICS?
+●	Modern Curriculum: Programs aligned with the latest industry trends (AI, Cybersecurity, Cloud Computing, etc.).
+●	Expert Faculty: Learn from experienced educators, researchers, and industry professionals.
+●	Placement Assistance: A dedicated training and placement cell partners with leading companies.
+●	Innovative Teaching: Utilizes project-based learning, real-world case studies, and technology-enabled instruction.
+●	Holistic Student Development: Nurtures academic excellence alongside leadership, communication, and critical thinking skills.
+●	Skill-Focused Education: Emphasizes practical, hands-on training.
+●	Research & Innovation: Fosters innovative thinking through research groups, funded projects, patents, and publications.
+●	Student Development Activities: Workshops, hackathons, seminars, and co-curricular activities.
+●	Industry Connect: MOUs, live projects, guest lectures, and internships with industry leaders.
+6. Student Clubs
+●	Cultural Club: Organizes events like Garba nights and theatre.
+●	Eco Club: Promotes sustainability through tree plantations and awareness campaigns.
+●	Leadership Forum: Cultivates leadership skills through event management and debates.
+●	Photography & Media Club: Teaches visual storytelling through photography and editing.
+●	Sports Club: Promotes team spirit and fitness with sports from cricket to chess.
+7. Laboratories
+AMTICS provides cutting-edge facilities to foster innovation:
+●	iOS Lab: For developing applications for iOS platforms.
+●	3D Printing Lab: Dedicated to advancing additive manufacturing technologies.
+●	Autonomous Robotic Systems Lab: For designing and testing autonomous robots.
+●	BEE Lab: Explores bioelectronics and embedded systems for healthcare.
+●	DLDC Lab: Focuses on designing digital circuits and systems (FPGA, etc.).
+●	Drone Lab: For developing unmanned aerial vehicles (UAVs).
+●	EV Lab: Advances electric vehicle technologies.
+●	Gulabba Lab: Focuses on computational biology and bioinformatics.
+●	Hardware Lab: For designing and evaluating novel hardware systems.
+8. Academies & Partnerships
+Exclusive partnerships with global IT leaders for professional training:
+●	AWS Academy
+●	Red Hat Academy
+●	Oracle Academy
+9. Code of Conduct for Students
+1.	Uphold the dignity of AMTICS.
+2.	Set and pursue high academic goals.
+3.	Attend the campus prayer recitation at 8:25 AM.
+4.	Be polite and respectful to all staff and students.
+5.	Maintain mandatory attendance (absences require valid medical certificates).
+6.	Balance extracurricular activities with academics.
+7.	Wear the Institute uniform and ID card.
+8.	Adhere to examination form submission deadlines.
+9.	Follow all rules and guidelines issued by the Institute and University.
+10.	Do not form organizations or collect funds without written permission.
+11.	Consumption of intoxicating substances will lead to expulsion.
+12.	Ragging is strictly prohibited.
+13.	Damaging institute property is prohibited and will result in fines.
+14.	Do not engage in illegal or disorderly activities.
+15.	Maintain dignity on social media concerning the Institute.
+16.	Consult counselors for academic or personal issues.
+10. Research & Innovation
+Patents
+●	Optical Character Recognition and Data Processing Machine: Granted and Published (Patent No: 330319-001).
+●	Traffic Collision Notification System: Under-Examination (Patent No: 201821023472).
+Publications
+The faculty and students have numerous publications in areas like Machine Translation, Natural Language Processing, Ensemble Classifiers, and more. Key publications include research on Sanskrit-to-Hindi translation, COVID-19 literature mining, and deep neural architectures.
+Ongoing Projects
+●	Automatic Chemical Smiles to 3D Mol file converter (Completed).
+●	Smart Garage Application (SSIP Funded).
+●	Smart Street Light System (Funded by MeitY).
+●	Automatic Solar Panel Cleaning Robot (SSIP Funded).
+●	AI-based Predictive Battery Management System (B.U. Patel Research Promotion Scheme Funded).
+Funding Opportunities
+The institute provides information on various grants from agencies like DST, Ministry of Electronics, DRDO, and SERB for research in AI, Robotics, Cybersecurity, and Cloud Computing.
+11. Faculty
+AMTICS has a diverse team of expert faculty members.
+●	Dr. Vishvajit Bakrola: PhD, I/C Director
+●	Mr. Jay Patel: PhD Pursuing, Assistant Professor
+●	Ms. Dipashree Patel: PhD Pursuing, Assistant Professor
+●	Ms. Vibhuti Patel: M.Tech, Assistant Professor
+●	Ms. Vidhi Sutaria: PhD Pursuing, Assistant Professor
+●	Ms. Urvishabahen Patel: Assistant Professor
+●	Mr. Aakash Parmar: PhD Pursuing, Assistant Professor
+●	Ms. Vidhi Patel: Assistant Professor
+●	Ms. Halak Patel: Assistant Professor
+●	Ms. Roshni Patel: Assistant Professor
+●	Ms. Mitaliben Patel: Assistant Professor
+●	Mr. Santosh Saha: PhD Pursuing, Assistant Professor
+●	Mr. Vishvendu Bhatt: Assistant Professor
+●	Mr. Dipesh Shahane: Assistant Professor
+●	Mr. Dharmesh Kokani: Assistant Professor
+●	Mr. Amit Kumar: PhD Pursuing, Assistant Professor
+●	Mr. Ankur Gamit: Assistant Professor
+●	Ms. Ridhdhi Naik: PhD Pursuing, Assistant Professor
+●	Ms. Ekta Atodariya: Lab Assistant
+12. Contact Information
+Asha M. Tarsadia Institute of Computer Science and Technology
+●	Address: Uka Tarsadia University, Maliba Campus, Gopal Vidyanagar, Bardoli, Tarsadi Dist. Surat - 394350, Gujarat, India.
+●	Email: director.amtics@utu.ac.in
+●	Phone: +91 9825339693
