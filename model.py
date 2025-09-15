@@ -22,7 +22,7 @@ def read_file(path):
             return f.read()
         
 #2. Splitting the document into chunks
-def chunk_text(text, size=500, overlap=100):
+def chunk_text(text, size=800, overlap=200):
     chunks, start = [], 0
     while start < len(text):
         end = min(start+size, len(text))
@@ -47,7 +47,7 @@ def build_faiss(embs):
     return index
 
 # Takes the User query and retrieves the relevant embedding from the Index
-def retrieve(query, index, chunks, k=3):
+def retrieve(query, index, chunks, k=6):
     resp = ollama.embeddings(model=EMBED_MODEL, prompt=query)
     q_emb = np.array(resp["embedding"], dtype=np.float32).reshape(1, -1)
     faiss.normalize_L2(q_emb)
@@ -57,10 +57,20 @@ def retrieve(query, index, chunks, k=3):
 #
 def generate_answer(query, retrieved):
     context = "\n\n".join([c[:300] for c, _ in retrieved])
-    system = "You are a helpful assistant. Use ONLY the given context."
-    user_msg = f"Context:\n{context}\n\nQuestion: {query}"
-    resp = ollama.chat(model=GEN_MODEL, messages=[
-        {"role":"system","content":system},
-        {"role":"user","content":user_msg}
+
+    system = (
+   "You are a helpful assistant for AMTICS college. "
+    "Answer naturally and conversationally. "
+    "Use only the provided information, but combine details when needed to give a clear answer. "
+    "Do NOT say 'based on context' or 'the document says'."
+    )
+
+    user_msg = f"{context}\n\nQuestion: {query}"
+
+    resp = ollama.chat(model=GEN_MODEL, messages=[ 
+        {"role": "system", "content": system},
+        {"role": "user", "content": user_msg}
     ])
     return resp.message.content
+
+

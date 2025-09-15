@@ -53,7 +53,7 @@ if prompt := st.chat_input("Ask a question..."):
     # Generate + store assistant reply
     with st.chat_message("assistant", avatar="https://ik.imagekit.io/wjsnaz8nns/Untitled%20design%20(35).png?updatedAt=1757842986406"):
         with st.spinner("Thinking..."):
-            hits = retrieve(prompt, st.session_state["index"], st.session_state["chunks"], k=3)
+            hits = retrieve(prompt, st.session_state["index"], st.session_state["chunks"], k=6)
             if not hits:
                 response = "Apologies, I couldn’t find anything relevant."
             else:
